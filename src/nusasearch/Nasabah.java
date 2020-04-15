@@ -5,13 +5,13 @@ public class Nasabah {
     private int id;
     private String nama;
     private int nik;
-    private String username;
-    private String password;
-    private int idRekening;
     private String tglLahir;
     private String tglPembuatan;
     private int pendapatan;
     private String noHp;
+    private String username;
+    private String password;
+    private int idRekening;
     private String status;
     private String alamatRumah;
     private String alamatKantor;
